@@ -1,0 +1,5 @@
+<matches software="LanguageTool" version="3.0-SNAPSHOT" buildDate="2015-05-19 22:01">
+<language shortname="en-US" name="English (US)"/>
+<error fromy="0" fromx="0" toy="0" tox="4" ruleId="UPPERCASE_SENTENCE_START" msg="This sentence does not start with an uppercase letter" replacements="Trck" context="trck" contextoffset="0" offset="0" errorlength="4" category="Capitalization" locqualityissuetype="typographical"/>
+<error fromy="0" fromx="0" toy="0" tox="4" ruleId="MORFOLOGIK_RULE_EN_US" msg="Possible spelling mistake found" replacements="track#truck#trick#tick#trek#tack#tuck#tr ck" context="trck" contextoffset="0" offset="0" errorlength="4" category="Possible Typo" locqualityissuetype="misspelling"/>
+</matches>
