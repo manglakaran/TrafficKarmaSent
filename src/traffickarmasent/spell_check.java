@@ -1,3 +1,5 @@
+package traffickarmasent;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.* ;
@@ -17,7 +19,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource; 
-public class abc
+public class spell_check
 {
 		public static void main( String args[] ) throws Exception{
 		try{
@@ -56,7 +58,7 @@ public class abc
 									
 						}
     		}		
-    	catch(Exception e){
+    	catch(  URISyntaxException | IOException e){
 			System.out.println(e);
 		}	
 
