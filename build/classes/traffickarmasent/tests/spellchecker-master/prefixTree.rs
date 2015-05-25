@@ -1,2 +1,0 @@
-prefixTree$Node
-prefixTree

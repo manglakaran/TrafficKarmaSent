@@ -22,8 +22,8 @@ import org.xml.sax.InputSource;
 public class spell_check
 {
 		public static void main( String args[] ) throws Exception{
-		try{
-						String url = "https://languagetool.org:8081/?language=en-US&text=" + "corect" ;
+		try{    String check = "Hevy";
+			String url = "https://languagetool.org:8081/?language=en-US&text=" + check ;
      
                         URI uri = new URI(url);
                         URL page = new URL(uri.toString());
@@ -42,16 +42,33 @@ public class spell_check
 						if(data.contains("MORFOLOGIK_RULE_EN_US")){
 							Pattern p = Pattern.compile("(replacements=\"([^\"]*)\")");
 							Matcher m  = p.matcher(data);
+                                                        if(!Character.isUpperCase(check.charAt(0))){
 							m.find();
 							m.find();
+                                                        }
+                                                        else{
+                                                        m.find();
+                                                        }
 							System.out.println(m.group());
+                                                        if(m.group().contains("#"))
+                                                        {
 							Pattern p1 = Pattern.compile("\"(.*?)#");
 							Matcher m1  = p1.matcher(m.group());
-							//m1.find();
+							
 							m1.find();
 							String ans = m1.group().substring(1, m1.group().length()-1);
-						    System.out.println(ans);
-					
+                                                        System.out.println(ans);
+                                                        }
+                                                        else{
+                                                        Pattern p1 = Pattern.compile("\"(.*?)\"");
+							Matcher m1  = p1.matcher(m.group());
+							
+							m1.find();
+							String ans = m1.group().substring(1, m1.group().length()-1);
+                                                        System.out.println(ans);
+                                                        //System.out.println("bababa");
+									
+                                                        }
 						}
 						else{
 						    System.out.println("lalalala");
