@@ -1,0 +1,347 @@
+SantaCruz	Churchgate
+Khada Parsi	Saat rasta
+Bandra 	Goregaon
+borivali 	Andheri
+Mumbai 	Borivali
+Malad 	Andheri
+Lokmanya Terminus	Borivali
+Andheri west	Goregaon
+Belapur Bridge	Kharghar
+Goregaon 	Bandra 
+Colaba 	Bandra
+Malad 	andheri
+Vashi flyover	Mumbai
+andheri highway	Bandra
+Wadala	Barkat Ali
+Gokul Nagar 	Thane
+Jogeshwari 	andheri
+Bandra 	Kandivali
+Mahalaxmi Station	Peddar Road
+vashi highway	airoli
+Worli 	Lokhandwala
+Kanjur marg 	Mulund
+Joheshwari 	Santa Cruz
+Mira Road	Borivali
+Bandra 	JVLR
+Kharghar	Juhu
+Dharavi 	Sion
+Worli Sea Face 	Aarey Flyover
+Juhu 	WEH
+Kalina 	Andheri
+kalina flyover	airport
+Vashi 	Worli
+Ghatkopar 	Mumbai
+Andheri 	Borivali
+Airoli	Thane-Belapur road 
+andheri 	kandivali
+Bedekar 	Thane
+Chembur 	Borivali
+Thane 	Vashi
+JVLR 	borivali
+VT 	Chembur
+Tilak Nagar 	Kalina
+Bandra 	Mahim
+Bandra 	airoli
+Andheri 	Juhu Circle
+Santacruz 	Bandra
+Thane 	Chakala
+Thane 	Borivali
+andheri 	Goregaon
+Suman 	Ghatkophar
+Dadar TT 	plaza
+Andheri WEH 	Borivali
+Sewri 	Wadala
+andheri flyover	andheri
+Rabale 	Powai
+thane 	vikhroli
+Kemps 	Juhu
+Mumbai 	Delhi
+kalwa 	thane
+Thane 	Belapur
+Andheri 	Vile
+Lokhandwala 	Bandra
+SCLR 	EEH
+WEH 	Jogeshwari
+Mankhurd 	mumbai
+bandra 	Andheri
+Goregaon 	Wadala
+Worli Naka 	Mahim
+Parel 	Andheri
+Bandra 	Andheri
+Ghansoli flyover	Vashi
+jarimari 	sakinaka
+CST Road	Juhu
+Akruli 	Goregaon
+Wadala 	Wadala
+Andheri flyover	Airport
+Chembur 	Infiniti Mall
+WEH 	Borivali
+Bandra 	andheri
+Kherwadi flyover	Andheri
+Worli 	Malad
+Chandivali 	Powai
+Kanjur 	EEH
+andheri east	amboli andheri
+Vashi 	Mankhurd
+Thane 	Kopri
+Bandra 	Lilavati
+LBS Marg 	Kalina
+Andheri 	Bandra
+Khar 	Andheri
+Borivali 	JVLR
+Thakur flyover	Borivali
+Mumbai 	Goregaon
+SCLR 	kalina
+Deonar 	kalanagar
+Marve 	Dindoshi
+Mahim 	Santacruz
+Ghatkopar 	Vashi
+Pedder Road	Haji Ali
+Kherwadi 	Vile Parle
+Versova 	Bandra 
+Kandivali 	JVLR
+Andheri-Ghatkopar link Road	Ghatkopar
+Vashi Gaon 	Mankhurd
+Kandivali east	Kandivali
+Lower Parel 	Andheri
+andheri 	thane
+Dadabhai Naoroji Road	CST
+kandivali 	worli
+Amar Mahal 	Chembur
+Suman Nagar 	Amar Mahal
+Mumbai 	Bangalore
+Vakola 	Goregaon
+Mahim 	Worli
+Ghatkopar 	Ghatkopar
+Vidyavihar east	Kharghar
+Mahim 	Goregaon
+Ghodbunder 	Mira Road
+Andheri 	Panvel
+Bandra SV Road	sealink
+Andheri east	Bandra
+Belapur 	Kurla Phoenix
+Dahisar 	Vile Parle
+Marine 	Kandivli
+Kalyan 	Vithalwadi
+Andheri 	Goregaon
+Powai 	Joheshwari
+Kandivali 	Andheri
+Mahavir Nagar 	Kandivali
+Chembur 	Kurla
+Ghatkopar 	Chembur
+Mumbai 	Pune
+Sancheti flyover	Old Mumbai-Pune
+Worli 	Andheri
+Andheri east	Khar
+Mumbai 	lonavala
+Bandra west	Lilawati
+Mumbai 	Andheri
+andheri 	borivali
+Shanmukhananda 	Sion
+Malcolm Baug 	Andheri
+SEEPZ Road	JVLR
+WEH 	andheri
+Juinagar 	CST
+Bandra SV 	Mahim
+Elphistone 	Mumbai
+Goregaon west	Military
+#Godbunderroad 	borivali
+Panbel 	Panvel
+#HajiAli 	#Worli Naka
+Malad 	Chembur
+worli 	Borivili
+hajiali 	Tardeo
+Thane Belapur Road	Thane
+Andheri 	Bandra
+Borivili 	worli
+Thane 	Kurla
+Vakola 	Santacruz
+LBS Road	Ghatkopar
+milindnagar 	jogeshwari
+Ghatkopar 	mahalaxshami
+Powai 	Oberoi
+Dadar 	Vikhroli
+Goregoan 	VileParle
+Bhakti 	Mazgaon
+Bangalore 	Bangalore
+Nalasopara 	Andheri
+Thane 	Powai
+Andheri 	Vira
+EEH 	Kalina
+Goregaon 	Andheri Powai
+Chowpatty 	Churchgate
+Dahisar 	Kashimira
+Worli Naka 	Bandra
+Mumbai 	Panvel
+thane 	Wadala.
+Mumbai-Pune expressway 	Khandala
+Mankhurd flyover	Mumbai
+WEH 	bandra
+Jogeshwari 	Hiranandani
+Ghatkopar 	Kurla
+Powai 	Sakinaka
+Andheri west	Bandra
+Borivali 	Parle
+Wadala 	Chembur
+Powai 	NaviMumbai.
+Mahalaxmi 	Haji Ali.
+chakala 	WEH.
+Thane Belapur 	Nerul
+Pune-Mumbai expressway	Mumbai
+andheri 	Bandra
+Panvel 	CST
+Andheri flyover	Parle WEH
+Shiv Sena Bhavan 	Mahim
+Shibili 	Mumbai
+Bandra 	Dahisar
+Matunga east	Thane
+Borivali 	Thakur
+Santacruz flyover	Chembur
+JVLR 	EEH
+Dadar 	Andheri
+Andheri	worli
+JVLR 	Airport
+Bandra 	Lower Parel
+Kandivali 	Prabhadevi
+Airoli Bridge	EEH
+EEH 	Matunga
+Bandra 	Dadar
+Churchgate 	Andheri
+Kandivali	Goregao
+Andheri 	Bandra
+WEH 	Bandra
+Borivali 	Malad
+Powai 	Bandra
+Podar 	Thane
+BWSL 	Mahalaxmi
+Malad 	Goregaon
+Andheri east	Santacruz
+Jogeshwari 	Oshiwara
+Lkhdwala 	Chakala
+Goregaon 	Colaba
+Andheri 	Juhu
+Bandra 	Khar
+Powai 	Ghansoli
+Mumbai 	Mumbai Pune
+Borivali 	Borivali
+Juhu 	Bandra
+Parsik	Belapur
+WEH 	goregoan
+Goregaon 	Dombivali
+Malad Oberoi mall	Andheri
+Swami Vivekananda Road	Andheri
+EEH 	Vikroli
+Mahalaxmi 	Churchgate
+Byculla 	Powai
+Bandra	Mount Mary
+Mahakali 	Andheri
+Borivali 	Church
+Haji Ali south 	Saudamini
+mumbai 	Lonavala
+WEH Andheri flyover	Vile Parle
+Kurla 	Ghatkopar
+akurli Rd	lokhandwala
+Borivali 	Churchgate
+Borivali 	jogeshwari
+Vashi 	Mumbai
+Mumbai 	bandra
+kopar 	Ghatkopar
+Dadar 	Sion
+borivali highway	andheri
+Chembur 	Santacruz
+WEH 	Kandivali
+Andheri WEH 	bandra
+Mumbai-Pune expressway	Mumbai
+Pochkanwala Road	Worli
+Andheri flyover	Juhu Gali
+Kandivali 	Goregaon
+Shivajinagar 	Khadki
+Malad 	Dahisar
+Vashi	Dadar
+Panvel 	Dadar
+Mumbai 	Andheri
+Chandivali 	Kopar Khairane
+Goregaon 	Worli
+Mulund 	Bombay
+Mira Road	goregaon
+andheri 	Kalina
+Haji Ali south 	Heera Panna
+Vashi Bridge	Navi Mumbai
+akurli Road	Lokhandwala
+Bangalore 	Mumbai
+WEH 	Parle
+Andheri 	Wadala
+TCS Yantra 	Dadar
+India 	Goregaon
+Bairamal 	Mumbai
+Koparkhairane 	Patlipada
+Worli 	Borivali
+Nilesh 	Mulund
+Kalanagar 	Vakola
+Mahakali 	Chakala
+kasara Ghat 	Nashik
+Andheri 	Samta Nagar
+andheri 	khar
+WEH 	Goregaon
+Dadar 	Sion
+Grant Road	Kalina
+Goregaon 	Dadar
+Bandra 	Goregaon
+Kalyan 	CST
+Chandani Chowk 	Balewadi
+Andheri 	Churchgate
+Bandra/Sion 	Thane
+Marol 	Borivali
+chembur 	Motori
+Wadala 	Nerul
+KEMPS 	Haji Ali
+Andheri 	boriwali
+Malad 	Khar
+Thane 	Ghatkopar
+Malad 	Orlam
+Chheda nagar 	Navi Mumbai
+Mulund 	Kanjurmarg
+Bandra 	Saki Naka
+WEH 	Lilavati
+Kings 	Sion
+Bandra 	Worli
+Ulhasnagar 	Karjat
+Kharghar 	Belapur
+ghatkopar 	CST
+andheri 	bandra
+Mumbai 	nahur
+Ceaser Road	Andheri
+Andheri 	Malad
+BWSL 	haji ali dargah
+Vikhroli 	Powai
+JVLR 	Andheri
+Oshiwara 	Bandra
+Worli	Haji Ali
+mahavir nagar 	yogi nagar
+Lonavala 	Mumbai
+Chembur 	Kalina
+Airoli 	Kandivli
+Peddar 	Chowpatty
+Thane 	Kasara
+bandra 	Mehboob studio
+Mahim 	Vile Parle
+Tardeo 	Andheri
+WEH 	Andheri
+Andheri east	Goregaon
+Altamont Road	Ballard
+Andheri Infinity 	Borivali
+kandivali 	andheri
+Goregaon 	Andheri
+worli 	colaba
+Dinshaw Wachha Road	Oval Maidan
+Hindmata 	Parel
+EEH 	Dadar
+Bandra 	Vashi
+Borivali 	Andheri
+Bhivandi Rd	Vasai
+Aarey 	Goregaon
+Airoli 	thane
+Mumbai 	Mumbai-Pune
+Oshiwara 	Powai
+Vikhroli 	Jogeshwari
+kandivli thakur complex 	magathane

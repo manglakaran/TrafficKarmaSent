@@ -1,0 +1,348 @@
+LOCATION1,LOCATION2,LAT1,LNG1,LAT2,LNG2
+"SantaCruz, Mumbai","Churchgate, Mumbai",19.0825552,72.84176269999999,18.9322453,72.8264378
+"Khada Parsi, Mumbai","Saat rasta, Mumbai",18.9716,72.8324354,18.9813062,72.8264564
+"Bandra , Mumbai","Goregaon, Mumbai",19.0606917,72.8362497,19.1551485,72.8678551
+"borivali , Mumbai","Andheri, Mumbai",19.2371877,72.8441358,19.1171389,72.846563
+"Mumbai , Mumbai","Borivali, Mumbai",19.0176169,72.8561288,19.2371877,72.8441358
+"Malad , Mumbai","Andheri, Mumbai",19.1867884,72.8488709,19.1171389,72.846563
+"Lokmanya Terminus, Mumbai","Borivali, Mumbai",19.0696994,72.8916079,19.2371877,72.8441358
+"Andheri west, Mumbai","Goregaon, Mumbai",19.1363246,72.82766,19.1551485,72.8678551
+"Belapur Bridge, Mumbai","Kharghar, Mumbai",19.0026903,73.0323487,19.0473216,73.0699046
+"Goregaon , Mumbai","Bandra , Mumbai",19.1551485,72.8678551,19.0606917,72.8362497
+"Colaba , Mumbai","Bandra, Mumbai",18.9067031,72.8147123,19.0606917,72.8362497
+"Malad , Mumbai","andheri, Mumbai",19.1867884,72.8488709,19.1171389,72.846563
+"Vashi flyover, Mumbai","Mumbai, Mumbai",19.0685919,72.9976642,19.0176169,72.8561288
+"andheri highway, Mumbai","Bandra, Mumbai",19.1036418,72.8531521,19.0606917,72.8362497
+"Wadala, Mumbai","Barkat Ali, Mumbai",19.0151285,72.8580644,19.018224,72.866535
+"Gokul Nagar , Mumbai","Thane, Mumbai",19.1931373,72.8729633,19.0759837,72.8776559
+"Jogeshwari , Mumbai","andheri, Mumbai",19.1405116,72.8421555,19.1171389,72.846563
+"Bandra , Mumbai","Kandivali, Mumbai",19.0606917,72.8362497,19.2045159,72.8520095
+"Mahalaxmi Station, Mumbai","Peddar Road, Mumbai",18.9823656,72.8239451,18.9682454,72.80734989999999
+"vashi highway, Mumbai","airoli, Mumbai",19.0685012,72.9966027,19.157935,72.9934762
+"Worli , Mumbai","Lokhandwala, Mumbai",18.9872015,72.8290456,18.957047,72.827823
+"Kanjur marg , Mumbai","Mulund, Mumbai",19.1282039,72.928065,19.1565109,72.9637728
+"Joheshwari , Mumbai","Santa Cruz, Mumbai",19.1405116,72.8421555,19.084364,72.835973
+"Mira Road, Mumbai","Borivali, Mumbai",19.2797513,72.8561635,19.2371877,72.8441358
+"Bandra , Mumbai","JVLR, Mumbai",19.0606917,72.8362497,19.1247111,72.8957516
+"Kharghar, Mumbai","Juhu, Mumbai",19.0473216,73.0699046,19.098821,72.8320717
+"Dharavi , Mumbai","Sion, Mumbai",19.0402084,72.8508504,19.0390214,72.86189519999999
+"Worli Sea Face , Mumbai","Aarey Flyover, Mumbai",19.0091432,72.8157283,19.1653208,72.858337
+"Juhu , Mumbai","WEH, Mumbai",19.098821,72.8320717,19.0759837,72.8776559
+"Kalina , Mumbai","Andheri, Mumbai",19.076277,72.8653997,19.1171389,72.846563
+"kalina flyover, Mumbai","airport, Mumbai",19.0738862,72.87998759999999,19.0901765,72.8687391
+"Vashi , Mumbai","Worli, Mumbai",19.0770644,72.9989925,18.9872015,72.8290456
+"Ghatkopar , Mumbai","Mumbai, Mumbai",19.0856491,72.9082207,19.0176169,72.8561288
+"Andheri , Mumbai","Borivali, Mumbai",19.1171389,72.846563,19.2371877,72.8441358
+"Airoli, Mumbai","Thane-Belapur road , Mumbai",19.157935,72.9934762,19.1425582,73.0120312
+"andheri , Mumbai","kandivali, Mumbai",19.1171389,72.846563,19.2045159,72.8520095
+"Bedekar , Mumbai","Thane, Mumbai",19.132571,72.8489862,19.0759837,72.8776559
+"Chembur , Mumbai","Borivali, Mumbai",19.0327996,72.89635679999999,19.2371877,72.8441358
+"Thane , Mumbai","Vashi, Mumbai",19.0759837,72.8776559,19.0770644,72.9989925
+"JVLR , Mumbai","borivali, Mumbai",19.1247111,72.8957516,19.2371877,72.8441358
+"VT , Mumbai","Chembur, Mumbai",18.9442225,72.8357343,19.0327996,72.89635679999999
+"Tilak Nagar , Mumbai","Kalina, Mumbai",19.0658187,72.8899927,19.076277,72.8653997
+"Bandra , Mumbai","Mahim, Mumbai",19.0606917,72.8362497,19.0351534,72.8404432
+"Bandra , Mumbai","airoli, Mumbai",19.0606917,72.8362497,19.157935,72.9934762
+"Andheri , Mumbai","Juhu Circle, Mumbai",19.1171389,72.846563,19.0848389,72.8324957
+"Santacruz , Mumbai","Bandra, Mumbai",19.0825552,72.84176269999999,19.0606917,72.8362497
+"Thane , Mumbai","Chakala, Mumbai",19.0759837,72.8776559,19.1097712,72.8582672
+"Thane , Mumbai","Borivali, Mumbai",19.0759837,72.8776559,19.2371877,72.8441358
+"andheri , Mumbai","Goregaon, Mumbai",19.1171389,72.846563,19.1551485,72.8678551
+"Suman , Mumbai","Ghatkophar, Mumbai",19.0533939,72.8833811,19.0856491,72.9082207
+"Dadar TT , Mumbai","plaza, Mumbai",19.0185028,72.8480673,19.1135989,72.8586203
+"Andheri WEH , Mumbai","Borivali, Mumbai",19.0759837,72.8776559,19.2371877,72.8441358
+"Sewri , Mumbai","Wadala, Mumbai",18.9988745,72.854548,19.0151285,72.8580644
+"andheri flyover, Mumbai","andheri, Mumbai",19.1150205,72.84951339999999,19.1171389,72.846563
+"Rabale , Mumbai","Powai, Mumbai",19.1366934,73.003076,19.1196773,72.9050809
+"thane , Mumbai","vikhroli, Mumbai",19.0759837,72.8776559,19.091182,72.92086359999999
+"Kemps , Mumbai","Juhu, Mumbai",18.9640679,72.808221,19.098821,72.8320717
+"Mumbai , Mumbai","Delhi, Mumbai",19.0176169,72.8561288,13.0209342,77.63481139999999
+"kalwa , Mumbai","thane, Mumbai",19.1943854,72.99920130000001,19.0759837,72.8776559
+"Thane , Mumbai","Belapur, Mumbai",19.0759837,72.8776559,19.0189704,73.0392364
+"Andheri , Mumbai","Vile, Mumbai",19.1171389,72.846563,19.0994699,72.8439751
+"Lokhandwala , Mumbai","Bandra, Mumbai",18.957047,72.827823,19.0606917,72.8362497
+"SCLR , Mumbai","EEH, Mumbai",19.0751712,72.8723361,19.0759837,72.8776559
+"WEH , Mumbai","Jogeshwari, Mumbai",19.0759837,72.8776559,19.1405116,72.8421555
+"Mankhurd , Mumbai","mumbai, Mumbai",19.0558482,72.9281589,19.0176169,72.8561288
+"bandra , Mumbai","Andheri, Mumbai",19.0606917,72.8362497,19.1171389,72.846563
+"Goregaon , Mumbai","Wadala, Mumbai",19.1551485,72.8678551,19.0151285,72.8580644
+"Worli Naka , Mumbai","Mahim, Mumbai",19.000633,72.81681209999999,19.0351534,72.8404432
+"Parel , Mumbai","Andheri, Mumbai",18.9944898,72.83899050000001,19.1171389,72.846563
+"Bandra , Mumbai","Andheri, Mumbai",19.0606917,72.8362497,19.1171389,72.846563
+"Ghansoli flyover, Mumbai","Vashi, Mumbai",19.1123059,73.0077845,19.0770644,72.9989925
+"jarimari , Mumbai","sakinaka, Mumbai",19.0940508,72.8831854,19.0948958,72.8865248
+"CST Road, Mumbai","Juhu, Mumbai",19.0773967,72.8603293,19.098821,72.8320717
+"Akruli , Mumbai","Goregaon, Mumbai",19.2032063,72.8799241,19.1551485,72.8678551
+"Wadala , Mumbai","Wadala, Mumbai",19.0151285,72.8580644,19.0151285,72.8580644
+"Andheri flyover, Mumbai","Airport, Mumbai",19.1150205,72.84951339999999,19.0901765,72.8687391
+"Chembur , Mumbai","Infiniti Mall, Mumbai",19.0327996,72.89635679999999,19.1412664,72.83094919999999
+"WEH , Mumbai","Borivali, Mumbai",19.0759837,72.8776559,19.2371877,72.8441358
+"Bandra , Mumbai","andheri, Mumbai",19.0606917,72.8362497,19.1171389,72.846563
+"Kherwadi flyover, Mumbai","Andheri, Mumbai",19.1150205,72.84951339999999,19.1171389,72.846563
+"Worli , Mumbai","Malad, Mumbai",18.9872015,72.8290456,19.1867884,72.8488709
+"Chandivali , Mumbai","Powai, Mumbai",19.1074911,72.90176029999999,19.1196773,72.9050809
+"Kanjur , Mumbai","EEH, Mumbai",19.1282039,72.928065,19.0759837,72.8776559
+"andheri east, Mumbai","amboli andheri, Mumbai",19.1154908,72.8726952,19.1257992,72.8448476
+"Vashi , Mumbai","Mankhurd, Mumbai",19.0770644,72.9989925,19.0558482,72.9281589
+"Thane , Mumbai","Kopri, Mumbai",19.0759837,72.8776559,19.1816553,72.9711542
+"Bandra , Mumbai","Lilavati, Mumbai",19.0606917,72.8362497,19.0242551,72.8520769
+"LBS Marg , Mumbai","Kalina, Mumbai",19.1060578,72.9225697,19.076277,72.8653997
+"Andheri , Mumbai","Bandra, Mumbai",19.1171389,72.846563,19.0606917,72.8362497
+"Khar , Mumbai","Andheri, Mumbai",19.0716903,72.8341267,19.1171389,72.846563
+"Borivali , Mumbai","JVLR, Mumbai",19.2371877,72.8441358,19.1247111,72.8957516
+"Thakur flyover, Mumbai","Borivali, Mumbai",18.9512746,72.8318182,19.2371877,72.8441358
+"Mumbai , Mumbai","Goregaon, Mumbai",19.0176169,72.8561288,19.1551485,72.8678551
+"SCLR , Mumbai","kalina, Mumbai",19.0751712,72.8723361,19.076277,72.8653997
+"Deonar , Mumbai","kalanagar, Mumbai",19.0568324,72.9171241,19.0531331,72.84712309999999
+"Marve , Mumbai","Dindoshi, Mumbai",19.1918039,72.7991092,19.1762177,72.8616978
+"Mahim , Mumbai","Santacruz, Mumbai",19.0351534,72.8404432,19.0825552,72.84176269999999
+"Ghatkopar , Mumbai","Vashi, Mumbai",19.0856491,72.9082207,19.0770644,72.9989925
+"Pedder Road, Mumbai","Haji Ali, Mumbai",18.9714675,72.8095069,18.9778192,72.8104819
+"Kherwadi , Mumbai","Vile Parle, Mumbai",19.0586788,72.84437679999999,19.1030524,72.8466914
+"Versova , Mumbai","Bandra , Mumbai",19.1350852,72.8146101,19.0606917,72.8362497
+"Kandivali , Mumbai","JVLR, Mumbai",19.2045159,72.8520095,19.1247111,72.8957516
+"Andheri-Ghatkopar link Road, Mumbai","Ghatkopar, Mumbai",19.0856491,72.9082207,19.0856491,72.9082207
+"Vashi Gaon , Mumbai","Mankhurd, Mumbai",19.0326454,72.88845169999999,19.0558482,72.9281589
+"Kandivali east, Mumbai","Kandivali, Mumbai",19.2114533,72.87372169999999,19.2045159,72.8520095
+"Lower Parel , Mumbai","Andheri, Mumbai",18.9927476,72.8310679,19.1171389,72.846563
+"andheri , Mumbai","thane, Mumbai",19.1171389,72.846563,19.0759837,72.8776559
+"Dadabhai Naoroji Road, Mumbai","CST, Mumbai",18.9325,72.8317,18.9409708,72.8346536
+"kandivali , Mumbai","worli, Mumbai",19.2045159,72.8520095,18.9872015,72.8290456
+"Amar Mahal , Mumbai","Chembur, Mumbai",19.0645719,72.8996193,19.0327996,72.89635679999999
+"Suman Nagar , Mumbai","Amar Mahal, Mumbai",19.0519864,72.88477790000002,19.0645719,72.8996193
+"Mumbai , Mumbai","Bangalore, Mumbai",19.0176169,72.8561288,13.0422952,77.59015509999999
+"Vakola , Mumbai","Goregaon, Mumbai",19.0788783,72.85003069999999,19.1551485,72.8678551
+"Mahim , Mumbai","Worli, Mumbai",19.0351534,72.8404432,18.9872015,72.8290456
+"Ghatkopar , Mumbai","Ghatkopar, Mumbai",19.0856491,72.9082207,19.0856491,72.9082207
+"Vidyavihar east, Mumbai","Kharghar, Mumbai",19.079961,72.89876699999999,19.0473216,73.0699046
+"Mahim , Mumbai","Goregaon, Mumbai",19.0351534,72.8404432,19.1551485,72.8678551
+"Ghodbunder , Mumbai","Mira Road, Mumbai",19.2597254,72.9695364,19.2797513,72.8561635
+"Andheri , Mumbai","Panvel, Mumbai",19.1171389,72.846563,18.9894007,73.1175162
+"Bandra SV Road, Mumbai","sealink, Mumbai",19.0557714,72.83721150000001,19.0297096,72.81529119999999
+"Andheri east, Mumbai","Bandra, Mumbai",19.1154908,72.8726952,19.0606917,72.8362497
+"Belapur , Mumbai","Kurla Phoenix, Mumbai",19.0189704,73.0392364,18.995177,72.8261375
+"Dahisar , Mumbai","Vile Parle, Mumbai",19.2499632,72.85939429999999,19.1030524,72.8466914
+"Marine , Mumbai","Kandivli, Mumbai",18.9457243,72.82376049999999,19.2045159,72.8520095
+"Kalyan , Mumbai","Vithalwadi, Mumbai",18.963397,72.82074899999999,18.9499215,72.8292074
+"Andheri , Mumbai","Goregaon, Mumbai",19.1171389,72.846563,19.1551485,72.8678551
+"Powai , Mumbai","Joheshwari, Mumbai",19.1196773,72.9050809,19.1405116,72.8421555
+"Kandivali , Mumbai","Andheri, Mumbai",19.2045159,72.8520095,19.1171389,72.846563
+"Mahavir Nagar , Mumbai","Kandivali, Mumbai",19.1939104,72.84563109999999,19.2045159,72.8520095
+"Chembur , Mumbai","Kurla, Mumbai",19.0327996,72.89635679999999,19.0599836,72.889999
+"Ghatkopar , Mumbai","Chembur, Mumbai",19.0856491,72.9082207,19.0327996,72.89635679999999
+"Mumbai , Mumbai","Pune, Mumbai",19.0176169,72.8561288,18.9561458,72.8402491
+"Sancheti flyover, Mumbai","Old Mumbai-Pune, Mumbai",18.5301806,73.85412219999999,18.542296,73.851636
+"Worli , Mumbai","Andheri, Mumbai",18.9872015,72.8290456,19.1171389,72.846563
+"Andheri east, Mumbai","Khar, Mumbai",19.1154908,72.8726952,19.0716903,72.8341267
+"Mumbai , Mumbai","lonavala, Mumbai",19.0176169,72.8561288,18.7493892,73.4080759
+"Bandra west, Mumbai","Lilawati, Mumbai",19.0606917,72.8362497,19.0434069,73.0113513
+"Mumbai , Mumbai","Andheri, Mumbai",19.0176169,72.8561288,19.1171389,72.846563
+"andheri , Mumbai","borivali, Mumbai",19.1171389,72.846563,19.2371877,72.8441358
+"Shanmukhananda , Mumbai","Sion, Mumbai",19.0759837,72.8776559,19.0390214,72.86189519999999
+"Malcolm Baug , Mumbai","Andheri, Mumbai",19.1331076,72.84637839999999,19.1171389,72.846563
+"SEEPZ Road, Mumbai","JVLR, Mumbai",19.1260269,72.872871,19.1247111,72.8957516
+"WEH , Mumbai","andheri, Mumbai",19.0759837,72.8776559,19.1171389,72.846563
+"Juinagar , Mumbai","CST, Mumbai",19.051493,73.014991,18.9409708,72.8346536
+"Bandra SV , Mumbai","Mahim, Mumbai",19.0547926,72.84065489999999,19.0351534,72.8404432
+"Elphistone , Mumbai","Mumbai, Mumbai",19.0074271,72.8359006,19.0176169,72.8561288
+"Goregaon west, Mumbai","Military, Mumbai",19.1629338,72.839241,19.2002946,72.86437339999999
+"#Godbunderroad , Mumbai","borivali, Mumbai",19.3041368,72.862989,19.2371877,72.8441358
+"Panbel , Mumbai","Panvel, Mumbai",18.9894007,73.1175162,18.9894007,73.1175162
+"#HajiAli , Mumbai","#Worli Naka, Mumbai",18.979467,72.81246229999999,19.000633,72.81681209999999
+"Malad , Mumbai","Chembur, Mumbai",19.1867884,72.8488709,19.0327996,72.89635679999999
+"worli , Mumbai","Borivili, Mumbai",18.9872015,72.8290456,19.2371877,72.8441358
+"hajiali , Mumbai","Tardeo, Mumbai",18.9778192,72.8104819,18.9649699,72.80918249999999
+"Thane Belapur Road, Mumbai","Thane, Mumbai",19.1425582,73.0120312,19.0759837,72.8776559
+"Andheri , Mumbai","Bandra, Mumbai",19.1171389,72.846563,19.0606917,72.8362497
+"Borivili , Mumbai","worli, Mumbai",19.2371877,72.8441358,18.9872015,72.8290456
+"Thane , Mumbai","Kurla, Mumbai",19.0759837,72.8776559,19.0599836,72.889999
+"Vakola , Mumbai","Santacruz, Mumbai",19.0788783,72.85003069999999,19.0825552,72.84176269999999
+"LBS Road, Mumbai","Ghatkopar, Mumbai",19.0797781,72.886904,19.0856491,72.9082207
+"milindnagar , Mumbai","jogeshwari, Mumbai",19.0956154,72.8940076,19.1405116,72.8421555
+"Ghatkopar , Mumbai","mahalaxshami, Mumbai",19.0856491,72.9082207,18.983117,72.8168573
+"Powai , Mumbai","Oberoi, Mumbai",19.1196773,72.9050809,19.1147912,72.8936779
+"Dadar , Mumbai","Vikhroli, Mumbai",19.021324,72.84241779999999,19.091182,72.92086359999999
+"Goregoan , Mumbai","VileParle, Mumbai",19.1551485,72.8678551,19.1030524,72.8466914
+"Bhakti , Mumbai","Mazgaon, Mumbai",19.0725876,72.9080355,18.9718388,72.8436024
+"Bangalore , Mumbai","Bangalore, Mumbai",13.0422952,77.59015509999999,13.0422952,77.59015509999999
+"Nalasopara , Mumbai","Andheri, Mumbai",19.3131804,72.8522864,19.1171389,72.846563
+"Thane , Mumbai","Powai, Mumbai",19.0759837,72.8776559,19.1196773,72.9050809
+"Andheri , Mumbai","Vira, Mumbai",19.1171389,72.846563,19.008467,72.835011
+"EEH , Mumbai","Kalina, Mumbai",19.0759837,72.8776559,19.076277,72.8653997
+"Goregaon , Mumbai","Andheri Powai, Mumbai",19.1551485,72.8678551,19.1196773,72.9050809
+"Chowpatty , Mumbai","Churchgate, Mumbai",18.9547494,72.81388179999999,18.9322453,72.8264378
+"Dahisar , Mumbai","Kashimira, Mumbai",19.2499632,72.85939429999999,19.2798752,72.88551629999999
+"Worli Naka , Mumbai","Bandra, Mumbai",19.000633,72.81681209999999,19.0606917,72.8362497
+"Mumbai , Mumbai","Panvel, Mumbai",19.0176169,72.8561288,18.9894007,73.1175162
+"thane , Mumbai","Wadala., Mumbai",19.0759837,72.8776559,19.0151285,72.8580644
+"Mumbai-Pune expressway , Mumbai","Khandala, Mumbai",18.9964198,73.1324692,18.7548203,73.3777772
+"Mankhurd flyover, Mumbai","Mumbai, Mumbai",19.0512852,72.93714659999999,19.0176169,72.8561288
+"WEH , Mumbai","bandra, Mumbai",19.0759837,72.8776559,19.0606917,72.8362497
+"Jogeshwari , Mumbai","Hiranandani, Mumbai",19.1405116,72.8421555,19.1153798,72.9091436
+"Ghatkopar , Mumbai","Kurla, Mumbai",19.0856491,72.9082207,19.0599836,72.889999
+"Powai , Mumbai","Sakinaka, Mumbai",19.1196773,72.9050809,19.0948958,72.8865248
+"Andheri west, Mumbai","Bandra, Mumbai",19.1363246,72.82766,19.0606917,72.8362497
+"Borivali , Mumbai","Parle, Mumbai",19.2371877,72.8441358,19.1050428,72.8457203
+"Wadala , Mumbai","Chembur, Mumbai",19.0151285,72.8580644,19.0327996,72.89635679999999
+"Powai , Mumbai","NaviMumbai., Mumbai",19.1196773,72.9050809,19.0330488,73.0296625
+"Mahalaxmi , Mumbai","Haji Ali., Mumbai",18.983117,72.8168573,18.9778192,72.8104819
+"chakala , Mumbai","WEH., Mumbai",19.1097712,72.8582672,19.0759837,72.8776559
+"Thane Belapur , Mumbai","Nerul, Mumbai",19.1425582,73.0120312,19.033,73.02
+"Pune-Mumbai expressway, Mumbai","Mumbai, Mumbai",19.1792628,73.0225864,19.0176169,72.8561288
+"andheri , Mumbai","Bandra, Mumbai",19.1171389,72.846563,19.0606917,72.8362497
+"Panvel , Mumbai","CST, Mumbai",18.9894007,73.1175162,18.9409708,72.8346536
+"Andheri flyover, Mumbai","Parle WEH, Mumbai",19.1150205,72.84951339999999,19.1102949,72.8409693
+"Shiv Sena Bhavan , Mumbai","Mahim, Mumbai",18.957756,72.8276012,19.0351534,72.8404432
+"Shibili , Mumbai","Mumbai, Mumbai",19.1158852,72.836758,19.0176169,72.8561288
+"Bandra , Mumbai","Dahisar, Mumbai",19.0606917,72.8362497,19.2499632,72.85939429999999
+"Matunga east, Mumbai","Thane, Mumbai",19.0268747,72.8553352,19.0759837,72.8776559
+"Borivali , Mumbai","Thakur, Mumbai",19.2371877,72.8441358,19.2017785,72.8562594
+"Santacruz flyover, Mumbai","Chembur, Mumbai",19.0751712,72.8723361,19.0327996,72.89635679999999
+"JVLR , Mumbai","EEH, Mumbai",19.1247111,72.8957516,19.0759837,72.8776559
+"Dadar , Mumbai","Andheri, Mumbai",19.021324,72.84241779999999,19.1171389,72.846563
+"Andheri, Mumbai","worli, Mumbai",19.1171389,72.846563,18.9872015,72.8290456
+"JVLR , Mumbai","Airport, Mumbai",19.1247111,72.8957516,19.0901765,72.8687391
+"Bandra , Mumbai","Lower Parel, Mumbai",19.0606917,72.8362497,18.9927476,72.8310679
+"Kandivali , Mumbai","Prabhadevi, Mumbai",19.2045159,72.8520095,19.0158466,72.82799729999999
+"Airoli Bridge, Mumbai","EEH, Mumbai",19.1514492,72.9762059,19.0759837,72.8776559
+"EEH , Mumbai","Matunga, Mumbai",19.0759837,72.8776559,19.0268747,72.8553352
+"Bandra , Mumbai","Dadar, Mumbai",19.0606917,72.8362497,19.021324,72.84241779999999
+"Churchgate , Mumbai","Andheri, Mumbai",18.9322453,72.8264378,19.1171389,72.846563
+"Kandivali, Mumbai","Goregao, Mumbai",19.2045159,72.8520095,19.1551485,72.8678551
+"Andheri , Mumbai","Bandra, Mumbai",19.1171389,72.846563,19.0606917,72.8362497
+"WEH , Mumbai","Bandra, Mumbai",19.0759837,72.8776559,19.0606917,72.8362497
+"Borivali , Mumbai","Malad, Mumbai",19.2371877,72.8441358,19.1867884,72.8488709
+"Powai , Mumbai","Bandra, Mumbai",19.1196773,72.9050809,19.0606917,72.8362497
+"Podar , Mumbai","Thane, Mumbai",18.934219,72.82411119999999,19.0759837,72.8776559
+"BWSL , Mumbai","Mahalaxmi, Mumbai",19.0457193,72.8292998,18.983117,72.8168573
+"Malad , Mumbai","Goregaon, Mumbai",19.1867884,72.8488709,19.1551485,72.8678551
+"Andheri east, Mumbai","Santacruz, Mumbai",19.1154908,72.8726952,19.0825552,72.84176269999999
+"Jogeshwari , Mumbai","Oshiwara, Mumbai",19.1405116,72.8421555,19.1483497,72.84047029999999
+"Lkhdwala , Mumbai","Chakala, Mumbai",18.957047,72.827823,19.1097712,72.8582672
+"Goregaon , Mumbai","Colaba, Mumbai",19.1551485,72.8678551,18.9067031,72.8147123
+"Andheri , Mumbai","Juhu, Mumbai",19.1171389,72.846563,19.098821,72.8320717
+"Bandra , Mumbai","Khar, Mumbai",19.0606917,72.8362497,19.0716903,72.8341267
+"Powai , Mumbai","Ghansoli, Mumbai",19.1196773,72.9050809,19.1253629,72.99920130000001
+"Mumbai , Mumbai","Mumbai Pune, Mumbai",19.0176169,72.8561288,19.2014158,73.0007083
+"Borivali , Mumbai","Borivali, Mumbai",19.2371877,72.8441358,19.2371877,72.8441358
+"Juhu , Mumbai","Bandra, Mumbai",19.098821,72.8320717,19.0606917,72.8362497
+"Parsik, Mumbai","Belapur, Mumbai",19.2061723,73.0064264,19.0189704,73.0392364
+"WEH , Mumbai","goregoan, Mumbai",19.0759837,72.8776559,19.1551485,72.8678551
+"Goregaon , Mumbai","Dombivali, Mumbai",19.1551485,72.8678551,19.2171324,73.0833339
+"Malad Oberoi mall, Mumbai","Andheri, Mumbai",19.173808,72.8605943,19.1171389,72.846563
+"Swami Vivekananda Road, Mumbai","Andheri, Mumbai",19.1705527,72.8773037,19.1171389,72.846563
+"EEH , Mumbai","Vikroli, Mumbai",19.0759837,72.8776559,19.091182,72.92086359999999
+"Mahalaxmi , Mumbai","Churchgate, Mumbai",18.983117,72.8168573,18.9322453,72.8264378
+"Byculla , Mumbai","Powai, Mumbai",18.9718388,72.8436024,19.1196773,72.9050809
+"Bandra, Mumbai","Mount Mary, Mumbai",19.0606917,72.8362497,19.0468707,72.8234835
+"Mahakali , Mumbai","Andheri, Mumbai",19.1253791,72.866447,19.1171389,72.846563
+"Borivali , Mumbai","Church, Mumbai",19.2371877,72.8441358,18.9352861,72.82726869999999
+"Haji Ali south , Mumbai","Saudamini, Mumbai",18.9778192,72.8104819,18.981527,72.8146998
+"mumbai , Mumbai","Lonavala, Mumbai",19.0176169,72.8561288,18.7493892,73.4080759
+"WEH Andheri flyover, Mumbai","Vile Parle, Mumbai",19.0759837,72.8776559,19.1030524,72.8466914
+"Kurla , Mumbai","Ghatkopar, Mumbai",19.0599836,72.889999,19.0856491,72.9082207
+"akurli Rd, Mumbai","lokhandwala, Mumbai",19.201254,72.8661214,18.957047,72.827823
+"Borivali , Mumbai","Churchgate, Mumbai",19.2371877,72.8441358,18.9322453,72.8264378
+"Borivali , Mumbai","jogeshwari, Mumbai",19.2371877,72.8441358,19.1405116,72.8421555
+"Vashi , Mumbai","Mumbai, Mumbai",19.0770644,72.9989925,19.0176169,72.8561288
+"Mumbai , Mumbai","bandra, Mumbai",19.0176169,72.8561288,19.0606917,72.8362497
+"kopar , Mumbai","Ghatkopar, Mumbai",19.252701,73.021649,19.0856491,72.9082207
+"Dadar , Mumbai","Sion, Mumbai",19.021324,72.84241779999999,19.0390214,72.86189519999999
+"borivali highway, Mumbai","andheri, Mumbai",19.2336951,72.86391379999999,19.1171389,72.846563
+"Chembur , Mumbai","Santacruz, Mumbai",19.0327996,72.89635679999999,19.0825552,72.84176269999999
+"WEH , Mumbai","Kandivali, Mumbai",19.0759837,72.8776559,19.2045159,72.8520095
+"Andheri WEH , Mumbai","bandra, Mumbai",19.0759837,72.8776559,19.0606917,72.8362497
+"Mumbai-Pune expressway, Mumbai","Mumbai, Mumbai",18.9964198,73.1324692,19.0176169,72.8561288
+"Pochkanwala Road, Mumbai","Worli, Mumbai",19.0759837,72.8776559,18.9872015,72.8290456
+"Andheri flyover, Mumbai","Juhu Gali, Mumbai",19.1150205,72.84951339999999,19.1168205,72.83972190000001
+"Kandivali , Mumbai","Goregaon, Mumbai",19.2045159,72.8520095,19.1551485,72.8678551
+"Shivajinagar , Mumbai","Khadki, Mumbai",19.0637445,72.925386,18.5631806,73.8406198
+"Malad , Mumbai","Dahisar, Mumbai",19.1867884,72.8488709,19.2499632,72.85939429999999
+"Vashi, Mumbai","Dadar, Mumbai",19.0770644,72.9989925,19.021324,72.84241779999999
+"Panvel , Mumbai","Dadar, Mumbai",18.9894007,73.1175162,19.021324,72.84241779999999
+"Mumbai , Mumbai","Andheri, Mumbai",19.0176169,72.8561288,19.1171389,72.846563
+"Chandivali , Mumbai","Kopar Khairane, Mumbai",19.1074911,72.90176029999999,19.102769,73.0090013
+"Goregaon , Mumbai","Worli, Mumbai",19.1551485,72.8678551,18.9872015,72.8290456
+"Mulund , Mumbai","Bombay, Mumbai",19.1565109,72.9637728,19.0176169,72.8561288
+"Mira Road, Mumbai","goregaon, Mumbai",19.2797513,72.8561635,19.1551485,72.8678551
+"andheri , Mumbai","Kalina, Mumbai",19.1171389,72.846563,19.076277,72.8653997
+"Haji Ali south , Mumbai","Heera Panna, Mumbai",18.9778192,72.8104819,18.9773569,72.81054560000001
+"Vashi Bridge, Mumbai","Navi Mumbai, Mumbai",19.0624142,72.9734576,19.0330488,73.0296625
+"akurli Road, Mumbai","Lokhandwala, Mumbai",19.201254,72.8661214,18.957047,72.827823
+"Bangalore , Mumbai","Mumbai, Mumbai",13.0422952,77.59015509999999,19.0176169,72.8561288
+"WEH , Mumbai","Parle, Mumbai",19.0759837,72.8776559,19.1050428,72.8457203
+"Andheri , Mumbai","Wadala, Mumbai",19.1171389,72.846563,19.0151285,72.8580644
+"TCS Yantra , Mumbai","Dadar, Mumbai",19.0759837,72.8776559,19.021324,72.84241779999999
+"India , Mumbai","Goregaon, Mumbai",19.0759837,72.8776559,19.1551485,72.8678551
+"Bairamal , Mumbai","Mumbai, Mumbai",19.0871834,72.8848886,19.0176169,72.8561288
+"Koparkhairane , Mumbai","Patlipada, Mumbai",19.1030799,73.0106406,19.2420512,72.9711542
+"Worli , Mumbai","Borivali, Mumbai",18.9872015,72.8290456,19.2371877,72.8441358
+"Nilesh , Mumbai","Mulund, Mumbai",19.2478462,72.8619097,19.1565109,72.9637728
+"Kalanagar , Mumbai","Vakola, Mumbai",19.0531331,72.84712309999999,19.0788783,72.85003069999999
+"Mahakali , Mumbai","Chakala, Mumbai",19.1253791,72.866447,19.1097712,72.8582672
+"kasara Ghat , Mumbai","Nashik, Mumbai",18.9794978,72.8330254,19.9875634,73.7837693
+"Andheri , Mumbai","Samta Nagar, Mumbai",19.1171389,72.846563,19.0819402,72.9155115
+"andheri , Mumbai","khar, Mumbai",19.1171389,72.846563,19.0716903,72.8341267
+"WEH , Mumbai","Goregaon, Mumbai",19.0759837,72.8776559,19.1551485,72.8678551
+"Dadar , Mumbai","Sion, Mumbai",19.021324,72.84241779999999,19.0390214,72.86189519999999
+"Grant Road, Mumbai","Kalina, Mumbai",18.9629992,72.8175748,19.076277,72.8653997
+"Goregaon , Mumbai","Dadar, Mumbai",19.1551485,72.8678551,19.021324,72.84241779999999
+"Bandra , Mumbai","Goregaon, Mumbai",19.0606917,72.8362497,19.1551485,72.8678551
+"Kalyan , Mumbai","CST, Mumbai",18.963397,72.82074899999999,18.9409708,72.8346536
+"Chandani Chowk , Mumbai","Balewadi, Mumbai",18.507643,73.78396,18.5750146,73.76641289999999
+"Andheri , Mumbai","Churchgate, Mumbai",19.1171389,72.846563,18.9322453,72.8264378
+"Bandra/Sion , Mumbai","Thane, Mumbai",19.0547926,72.84065489999999,19.0759837,72.8776559
+"Marol , Mumbai","Borivali, Mumbai",19.1173012,72.8840395,19.2371877,72.8441358
+"chembur , Mumbai","Motori, Mumbai",19.0327996,72.89635679999999,19.0759837,72.8776559
+"Wadala , Mumbai","Nerul, Mumbai",19.0151285,72.8580644,19.033,73.02
+"KEMPS , Mumbai","Haji Ali, Mumbai",18.9640679,72.808221,18.9778192,72.8104819
+"Andheri , Mumbai","boriwali, Mumbai",19.1171389,72.846563,19.2371877,72.8441358
+"Malad , Mumbai","Khar, Mumbai",19.1867884,72.8488709,19.0716903,72.8341267
+"Thane , Mumbai","Ghatkopar, Mumbai",19.0759837,72.8776559,19.0856491,72.9082207
+"Malad , Mumbai","Orlam, Mumbai",19.1867884,72.8488709,19.195491,72.8375161
+"Chheda nagar , Mumbai","Navi Mumbai, Mumbai",19.0689601,72.9047477,19.0330488,73.0296625
+"Mulund , Mumbai","Kanjurmarg, Mumbai",19.1565109,72.9637728,19.1209644,72.93719709999999
+"Bandra , Mumbai","Saki Naka, Mumbai",19.0606917,72.8362497,19.0948958,72.8865248
+"WEH , Mumbai","Lilavati, Mumbai",19.0759837,72.8776559,19.0242551,72.8520769
+"Kings , Mumbai","Sion, Mumbai",19.0322606,72.857225,19.0390214,72.86189519999999
+"Bandra , Mumbai","Worli, Mumbai",19.0606917,72.8362497,18.9872015,72.8290456
+"Ulhasnagar , Mumbai","Karjat, Mumbai",19.24436,73.12589899999999,18.8204918,73.3076799
+"Kharghar , Mumbai","Belapur, Mumbai",19.0473216,73.0699046,19.0189704,73.0392364
+"ghatkopar , Mumbai","CST, Mumbai",19.0856491,72.9082207,18.9409708,72.8346536
+"andheri , Mumbai","bandra, Mumbai",19.1171389,72.846563,19.0606917,72.8362497
+"Mumbai , Mumbai","nahur, Mumbai",19.0176169,72.8561288,19.1546597,72.9466564
+"Ceaser Road, Mumbai","Andheri, Mumbai",19.1280018,72.8434699,19.1171389,72.846563
+"Andheri , Mumbai","Malad, Mumbai",19.1171389,72.846563,19.1867884,72.8488709
+"BWSL , Mumbai","haji ali dargah, Mumbai",19.0457193,72.8292998,18.982747,72.8089648
+"Vikhroli , Mumbai","Powai, Mumbai",19.091182,72.92086359999999,19.1196773,72.9050809
+"JVLR , Mumbai","Andheri, Mumbai",19.1247111,72.8957516,19.1171389,72.846563
+"Oshiwara , Mumbai","Bandra, Mumbai",19.1483497,72.84047029999999,19.0606917,72.8362497
+"Worli, Mumbai","Haji Ali, Mumbai",18.9872015,72.8290456,18.9778192,72.8104819
+"mahavir nagar , Mumbai","yogi nagar, Mumbai",19.1939104,72.84563109999999,19.2352291,72.8417576
+"Lonavala , Mumbai","Mumbai, Mumbai",18.7493892,73.4080759,19.0176169,72.8561288
+"Chembur , Mumbai","Kalina, Mumbai",19.0327996,72.89635679999999,19.076277,72.8653997
+"Airoli , Mumbai","Kandivli, Mumbai",19.157935,72.9934762,19.2045159,72.8520095
+"Peddar , Mumbai","Chowpatty, Mumbai",18.9682454,72.80734989999999,18.9547494,72.81388179999999
+"Thane , Mumbai","Kasara, Mumbai",19.0759837,72.8776559,18.9735464,72.8463356
+"bandra , Mumbai","Mehboob studio, Mumbai",19.0606917,72.8362497,19.0525804,72.8242037
+"Mahim , Mumbai","Vile Parle, Mumbai",19.0351534,72.8404432,19.1030524,72.8466914
+"Tardeo , Mumbai","Andheri, Mumbai",18.9649699,72.80918249999999,19.1171389,72.846563
+"WEH , Mumbai","Andheri, Mumbai",19.0759837,72.8776559,19.1171389,72.846563
+"Andheri east, Mumbai","Goregaon, Mumbai",19.1154908,72.8726952,19.1551485,72.8678551
+"Altamont Road, Mumbai","Ballard, Mumbai",18.9660815,72.8089076,18.9360163,72.8384374
+"Andheri Infinity , Mumbai","Borivali, Mumbai",19.1412664,72.83094919999999,19.2371877,72.8441358
+"kandivali , Mumbai","andheri, Mumbai",19.2045159,72.8520095,19.1171389,72.846563
+"Goregaon , Mumbai","Andheri, Mumbai",19.1551485,72.8678551,19.1171389,72.846563
+"worli , Mumbai","colaba, Mumbai",18.9872015,72.8290456,18.9067031,72.8147123
+"Dinshaw Wachha Road, Mumbai","Oval Maidan, Mumbai",18.930752,72.8242405,18.9334056,72.8292074
+"Hindmata , Mumbai","Parel, Mumbai",19.0098135,72.84197750000001,18.9944898,72.83899050000001
+"EEH , Mumbai","Dadar, Mumbai",19.0759837,72.8776559,19.021324,72.84241779999999
+"Bandra , Mumbai","Vashi, Mumbai",19.0606917,72.8362497,19.0770644,72.9989925
+"Borivali , Mumbai","Andheri, Mumbai",19.2371877,72.8441358,19.1171389,72.846563
+"Bhivandi Rd, Mumbai","Vasai, Mumbai",19.2251921,72.9955839,19.3919275,72.8397317
+"Aarey , Mumbai","Goregaon, Mumbai",19.1509735,72.8758099,19.1551485,72.8678551
+"Airoli , Mumbai","thane, Mumbai",19.157935,72.9934762,19.0759837,72.8776559
+"Mumbai , Mumbai","Mumbai-Pune, Mumbai",19.0176169,72.8561288,19.2014158,73.0007083
+"Oshiwara , Mumbai","Powai, Mumbai",19.1483497,72.84047029999999,19.1196773,72.9050809
+"Vikhroli , Mumbai","Jogeshwari, Mumbai",19.091182,72.92086359999999,19.1405116,72.8421555
+"kandivli thakur complex , Mumbai","magathane, Mumbai",19.2045159,72.8520095,19.2202063,72.8666866

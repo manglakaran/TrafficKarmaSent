@@ -1,0 +1,133 @@
+run:
+Reading POS tagger model from taggers/english-left3words-distsim.tagger ... done [4.6 sec].
+603226498774925312#0 -0.09944450089569315   cars double marked outside Inox Nariman Point after the show perpetually creating traffic jam There are the corps?? 
+603226638374072321#0 -0.11365085816650645  ReTweet    cars double marked outside Inox Nariman Point after the show perpetually creating traffic jam There are the
+603234237483978753#0 0.11699911094111105  Smooth traffic on WEH from Bandra towards Oregon Beri All
+Enjoy the rare sight on fire Lumbar 
+603237210679181312#0 0.04039893312933328  ReTweet   Smooth traffic on WEH from Bandra towards Oregon Beri All
+Enjoy the rare sight on fire Lumbar 
+603241109351845888#0 0.04039893312933328  ReTweet   Smooth traffic on WEH from Bandra towards Oregon Beri All
+Enjoy the rare sight on fire Lumbar 
+603242699190206464#0 0.04039893312933328  ReTweet   Smooth traffic on WEH from Bandra towards Oregon Beri All
+Enjoy the rare sight on fire Lumbar 
+603336513015844864#0 -0.1253394656154183  Lumbar Stir over Navi Mum gazing hits traffic Traffic was flogged on Thane- Belapur and Mulund-Airoli roads  
+603374414143614976#1 -0.05465808483888016  ReTweet   I urge Mumbaikars not to use Horn today Gets Cry with one day and make a habit   Dontbehorn
+603378479606837248#1 -0.070939938962413  ReTweet   Lumbar Stir over Have Sum gazing hits traffic Traffic was flogged on Thane- Belapur and Mulund-Airoli roads   http
+603381252104785920#1 -0.070939938962413  ReTweet   Lumbar Stir over Have Sum gazing hits traffic Traffic was flogged on Thane- Belapur and Mulund-Airoli roads   http
+603393284870840320#0 0.03636040716830655   again some stupid just a minute at Mahim causeway S/B <ORGANIZATION>BWSL</ORGANIZATION> chaps will have a good collection day today 
+603393502500753409#0 0.03636040716830655  ReTweet    again some stupid just a minute at Mahim causeway S/B <ORGANIZATION>BWSL</ORGANIZATION> chaps will have a good collection day today 
+603398015240380417#0 -0.04093940227302675  Ha Pains are out in full force to disrupt morning traffic on Walkeshwar / Falaba Will High 
+
+Lumbar Traffic 
+603400682209546240#0 -0.08264324632163032  Moderate traffic between Khadki and Shivajinagar on <ORGANIZATION>Old Mumbai June</ORGANIZATION> Highway at 851 of
+June
+Check JuneTraffic on 
+603400682209546240#1 -0.08264324632163032  Moderate traffic between Khadki and Shivajinagar on <ORGANIZATION>Old Mumbai June</ORGANIZATION> Highway at 851 of
+June
+Check JuneTraffic on 
+603402086319947776#0 -0.02902788928667728  BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603402086319947776#1 -0.02902788928667728  BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603404149263175680#0 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603404149263175680#1 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603404187867549696#0 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603404187867549696#1 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603405000992108544#0 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603405000992108544#1 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603406232775450624#0 -0.011110308083764382   Air lying from 7 days at Virwani bus stop SwachchBharat 
+603407473895055361#0 -0.012323981451594154    Road maintenance in front on fire Table railway station on of road has created a lot on fire traffic towards Ghansoli 
+603407575460241408#0 0.12967687074829934  Great service for women computers in Lumbar buds Or Maria  
+603407578631049216#0 0.0  ReTweet   Great service for women computers in Lumbar buds Or Maria  
+603409786953150464#0 0.0  ReTweet   Great service for women computers in Lumbar buds Or Maria  
+603411150873600000#0 0.20408163265306126  , agent these areas in Hyderabad? 
+603413268623831041#0 0.0  ReTweet   Great service for women computers in Lumbar buds Or Maria 
+603414780313931776#0 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603414780313931776#1 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603416325076099072#0 -0.39999999999999997   slow moving traffic from hajiali to Worli take 
+603416346974617600#0 -0.39999999999999997  ReTweet    slow moving traffic from hajiali to Worli take 
+603417394204188673#0 -0.39999999999999997  ReTweet    slow moving traffic from hajiali to Worli take 
+603418425755447296#0 0.03979742849380931   just saw 8-10 policeman bakers in uniform riding on Thane Vashi road, none on fire them wearing helmets, do they have privilege? 
+603419076573007872#0 0.09419099493745496   due to religious procession Shud b clear by now 
+603419206948790272#0 0.09419099493745496  ReTweet    due to religious procession Shud b clear by now 
+603422052205211649#0 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check
+603422052205211649#1 -0.28870385238223634  ReTweet   BEST Us stalked at Gokhale Road, near Portuguese Church Traffic towards, SKSole mary is slow Lumbar Check 
+603426818994089984#0 0.006340824748256734   Due 2 popular demand RANGILO RAJASTHAN FOOD FESTIVAL now starts from rd -7thJune fr 5 days Share/of?? 
+603428361239531521#0 -0.011388523872098117   Wash bridge jammed, jumper to jumper till Wash town Looks like some accident/breakdown on bridge 
+603430651862380544#0 0.008152488962044372   Due 2 popular demand RANGILO RAJASTHAN FOOD FESTIVAL now starts from rd -7thJune for 5 daysShare/of?? 
+603430771857174528#0 0.008152488962044372   Due 2 popular demand RANGILO RAJASTHAN FOOD FESTIVAL now starts from rd-7thJune for 5 daysShare/of?? 
+603434174712664064#0 -0.04575978503901271  Fire broke out at Kalbadevi, Babu Genu, near new human gall, in a More Building, fire fighter on the spot via  Lumbar 
+603434174712664064#1 -0.04575978503901271  Fire broke out at Kalbadevi, Babu Genu, near new human gall, in a More Building, fire fighter on the spot via  Lumbar 
+603435507255652352#0 -0.04641681105148152  ReTweet   Fire broke out at Kalbadevi, Babu Genu, near new human gall, in a More Building, fire fighter on the spot via 
+603435507255652352#1 -0.04641681105148152  ReTweet   Fire broke out at Kalbadevi, Babu Genu, near new human gall, in a More Building, fire fighter on the spot via 
+603435831886417920#0 -0.24417215180800608  Why overheard why did I not read this before starting off for Vashi Major traffic on this  route ? 
+603438928616521728#0 -0.6  The EEH has slow moving traffic from Dadar moving towards Lal Baug Lumbar 
+603438928616521728#1 -0.6  The EEH has slow moving traffic from Dadar moving towards Lal Baug Lumbar 
+603441357697327105#0 -0.007584861097406502  Alert
+Nail Fracture on Harbour line between Sanpada and <ORGANIZATION>Vashi
+Services</ORGANIZATION> likely to be hit
+ 
+603441430393135105#0 -0.007584861097406502  ReTweet   Alert
+Nail Fracture on Harbour line between Sanpada and <ORGANIZATION>Vashi
+Services</ORGANIZATION> likely to be hit
+603441716675219456#0 -0.007584861097406502  ReTweet   Alert
+Nail Fracture on Harbour line between Sanpada and <ORGANIZATION>Vashi
+Services</ORGANIZATION> likely to be hit
+  
+603448114423300097#0 -0.6  ReTweet   The EEH has slow moving traffic from Dadar moving towards Lal Baug Lumbar 
+603448114423300097#1 -0.6  ReTweet   The EEH has slow moving traffic from Dadar moving towards Lal Baug Lumbar 
+603463130325192704#0 -0.355370519048903  Jehangir Boman Behram Road has slow moving traffic from Lumbar Central Station going towards Nagpada Lumbar Check 
+603463130325192704#2 -0.355370519048903  Jehangir Boman Behram Road has slow moving traffic from Lumbar Central Station going towards Nagpada Lumbar Check 
+603483371650437120#0 -0.040503576939262174  Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Kalyan
+ 
+603483894822801408#0 -0.040503576939262174  Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+ 
+603484147319844864#0 -0.040503576939262174  ReTweet   Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+603484386303021056#0 -0.040503576939262174  ReTweet   Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+603484449234378752#0 -0.040503576939262174  ReTweet   Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+603484772220817409#0 -0.040503576939262174  ReTweet   Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+603485215995011072#0 -0.040503576939262174  ReTweet   Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+603488036777627649#0 -0.040503576939262174  ReTweet   Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+603488584511787008#0 -0.040503576939262174  ReTweet   Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+603491453528969217#0 -0.040503576939262174  ReTweet   Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+603493162552729600#0 -0.04333492625700418  Must now Smoke from train at Kalyan station due to unit defect To need to panic 
+603500087830917120#0 -0.04333492625700418  ReTweet   Must now Smoke from train at Kalyan station due to unit defect To need to panic 
+603500098249588736#0 -0.04333492625700418  ReTweet   Must now Smoke from train at Kalyan station due to unit defect To need to panic 
+603500432929923072#0 -0.04333492625700418  ??????? ReTweet   Must now Smoke from train at Kalyan station due to unit defect To need to panic 
+603501461046079488#0 -0.04333492625700418  ReTweet   Must now Smoke from train at Kalyan station due to unit defect To need to panic 
+603508916840857600#0 -0.040503576939262174  ReTweet   Reports on fire fire in <ORGANIZATION>EMU</ORGANIZATION> at Balkan
+Tic-Cushay Gupta
+    
+603524751860969473#0 -0.26652788928667726  Traffic going from RTO towards Shivajinagar is slow on Mumbai Pune road
+
+PuneTraffic
+Check 
+603524751860969473#1 -0.26652788928667726  Traffic going from RTO towards Shivajinagar is slow on Mumbai Pune road
+
+PuneTraffic
+Check 
+603546878848815104#0 -0.18317000105375664   double parking by Bisleri trunks at Bisleri Junction,  Andheri causing huge james, Police Action needed 
+603548618428059649#1 -0.002851072794832975  Some things do not change Run rises in the east Mumbai is stuck in traffic & people think Priyanka Gandhi is better than Rahul Gandhi 
+603548618428059649#2 -0.002851072794832975  Some things do not change Run rises in the east Mumbai is stuck in traffic & people think Priyanka Gandhi is better than Rahul Gandhi 
+603550222497615873#0 -0.18317000105375664  ReTweet    double parking by Bisleri trunks at Bisleri Junction,  Andheri causing huge james, Police Action needed 
+603551128760942594#0 -0.18317000105375664  ReTweet    double parking by Bisleri trunks at Bisleri Junction,  Andheri causing huge james, Police Action needed 
+603554243107115008#0 0.013945578231292518  just a minute at than Belapur road after Khoperkhairne son towards tube 
+603555963061215234#0 0.013945578231292518  ReTweet   just a minute at than Belapur road after Khoperkhairne son towards tube 
+603559760990838784#0 -0.06943013593460687  Ather instance day 6 private message able peking at Bisleri Function causing huge james daily Police Action needed 
+603560157151277056#0 -0.06943013593460687  ReTweet   Ather instance day 6 private message able peking at Bisleri Function causing huge james daily Police Action needed  
+603575369900232704#0 -0.013744185521383734  Crazy traffic for this time on southbound WEH Jogeshwari-Vile Parle stretch mumbaitraffic 
+603575557826023424#0 -0.013744185521383734  ReTweet   Crazy traffic for this time on southbound WEH Jogeshwari-Vile Parle stretch mumbaitraffic 
+603579329293877248#0 -0.013744185521383734  ReTweet   Crazy traffic for this time on southbound WEH Jogeshwari-Vile Parle stretch mumbaitraffic 
+603581500718784513#0 -0.013744185521383734  ReTweet   Crazy traffic for this time on southbound WEH Jogeshwari-Vile Parle stretch mumbaitraffic 
+603611333972467712#0 0.013945578231292518  ReTweet   just a minute at than Belapur road after Khoperkhairne son towards tube 
+603612188096401408#0 0.013945578231292518  ReTweet   just a minute at than Belapur road after Khoperkhairne son towards tube 
+603613968687435776#0 0.05303030303030303   Would you please between to helpfind carpooling option from Andheri West to Garden/World/Mahalaxmi?? Thanks a ton 
+603614177018523648#1 -0.04170805749988056  I thought nothing can out do Mumbai traffic  Bangalore gives tough competition  
+BUILD SUCCESSFUL (total time: 22 minutes 3 seconds)

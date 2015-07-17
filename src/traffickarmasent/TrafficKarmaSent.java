@@ -9,6 +9,8 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
+import static traffickarmasent.spellcheck.postagging;
+
 
 /**
  *
@@ -19,13 +21,15 @@ public class TrafficKarmaSent {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, Exception {
         // TODO code application logic here
         
-        FileOutputStream fos = new FileOutputStream(new File("hash1.dat"));
-        ObjectOutputStream out=new ObjectOutputStream(fos);
+       String a = "this is it" ;
+       a  = postagging(a);
 
         
     }
+
+    
     
 }
