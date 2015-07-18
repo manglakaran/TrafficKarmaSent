@@ -1,20 +1,20 @@
 import csv 
 
-counter=1
+counter=101
 time =0
 speed_temp = 0.0
 speed_avg = 0.0
 speed_count =0
 
-ofile  = open("historical_data.csv", "a+b")
+ofile  = open("historical_data2.csv", "a+b")
 c = csv.writer(ofile)
 c.writerow(["SER","Distance","Speed","TIME"])
 ofile.close()
-
-while(counter < 101):
+print "asdasda"
+while(counter < 201):
 	time =0
 	while(time < 24):
-		with open('sendkaran.csv', 'rb') as csvfile:
+		with open('sendkaran2.csv', 'rb') as csvfile:
 			reader = csv.DictReader(csvfile)
 			for row in reader:
 				if(int(row["SER"]) == counter):
@@ -27,7 +27,7 @@ while(counter < 101):
 		if(speed_count > 0):
 			print counter,distance,speed_temp/speed_count,time
 		
-			ofile  = open("historical_data.csv", "a+b")
+			ofile  = open("historical_data2.csv", "a+b")
 			c = csv.writer(ofile)
 			c.writerow([counter,distance,speed_temp/speed_count,time])
 			ofile.close()

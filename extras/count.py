@@ -2,13 +2,14 @@ import csv
 
 ofile  = open("count.csv", "a+b")
 c = csv.writer(ofile)
-c.writerow(["count"])
+c.writerow(["SER","Distance","Speed","TIME"])
 ofile.close()
 
+fo = open("newnodes.txt","r")
+for i in fo.readlines():
+	print i
 
-for i in xrange(1,361):
-	print i 
-	ofile  = open("count.csv", "a+b")
-	c = csv.writer(ofile)
-	c.writerow([i])
-	ofile.close()
+	#ofile  = open("count.csv", "a+b")
+	#c = csv.writer(ofile)
+	#c.writerow([i])
+	#ofile.close()
